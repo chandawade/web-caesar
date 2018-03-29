@@ -48,3 +48,4 @@ def encrypt():
     return form.format(encrypt_text)
     
 app.run()
+.gitignore
